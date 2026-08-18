@@ -1,2 +1,3 @@
-# employee-attrition-analysis
-An end-to-end HR people analytics project uncovering the drivers behind a 33.44% employee attrition rate across 311 employees
+# Employee Attrition Analysis
+## HR Executive Dashboard — Workforce Attrition and Retention Intelligence
+![Dashboard Overview](images/01_hr_dashboard_overview.png)
