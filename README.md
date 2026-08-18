@@ -71,3 +71,12 @@ employee-attrition-analysis/
 ├── images/           → Dashboard screenshots
 └── README.md
 ```
+### Overview — Full Workforce View
+![Dashboard Overview](images/01_hr_dashboard_overview.png)
+At first glance the numbers tell a concerning story — 33.44% 
+of employees have left the organisation, more than double 
+the industry standard. With an average salary of £69,463 
+and a retention rate of just 66.56%, the dashboard immediately 
+signals that this is not a minor HR challenge but a serious 
+organisational risk requiring urgent strategic intervention.
+
