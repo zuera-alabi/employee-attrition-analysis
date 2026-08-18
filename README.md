@@ -82,12 +82,13 @@ organisational risk requiring urgent strategic intervention.
 
 ## Production Department Filter
 ![Production Department](images/02_hr_dashboard_production.png)
-Filtering by Production transforms the picture dramatically — 
-this single department accounts for 79.8% of all company 
-attritions. With the lowest average salary across all 
-departments and the highest voluntary exit rate, Production 
-emerges as the organisation's most critical retention 
-crisis and the starting point for any meaningful intervention.
+Filtering by Production transforms the picture dramatically, 
+this single department houses 209 of the company's 311 employees 
+yet carries a 39.71% attrition rate above the already concerning 
+company average. With the lowest average salary at £59,953 and 
+a retention rate of just 60.29%, Production emerges as the 
+organisation's most critical retention crisis and the starting 
+point for any meaningful intervention.
 
 ## Key Findings
 
