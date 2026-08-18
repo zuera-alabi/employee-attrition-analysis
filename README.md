@@ -25,7 +25,30 @@ The analysis focused on answering the following questions:
 - How do performance scores relate to termination?
 - Which gender has the higher attrition rate?
 - Does employee satisfaction affect attrition?
-  ##  Tools & Technologies
+
+  ## Dataset
+The dataset contains 311 employee records spanning from 
+2006 to 2018 across multiple departments and states.
+
+|Column | Description |
+|--------|-------------|
+| Employee ID | Unique employee identifier |
+| Name | Employee full name |
+| Gender | Employee gender |
+| Marital Status | Employee marital status |
+| Date of Birth | Employee date of birth |
+| Position | Job title and role |
+| Department | Department employee belongs to |
+| Salary | Employee annual salary |
+| Hire Date | Date employee joined |
+| Termination Date | Date employee left |
+| Employment Status | Active or terminated |
+| Performance Score | Employee performance rating |
+| Engagement Survey | Employee engagement score |
+| Employee Satisfaction | Satisfaction rating |
+| Recruitment Source | How employee was recruited |
+| State | Employee location |
+  ## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
