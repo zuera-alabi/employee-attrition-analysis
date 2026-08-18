@@ -30,7 +30,7 @@ The analysis focused on answering the following questions:
 The dataset contains 311 employee records spanning from 
 2006 to 2018 across multiple departments and states.
 
-|Column | Description |
+| Column | Description |
 |--------|-------------|
 | Employee ID | Unique employee identifier |
 | Name | Employee full name |
