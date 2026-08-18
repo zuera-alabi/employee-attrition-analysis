@@ -12,7 +12,7 @@ HR decision making.
 
 ## Business Problem
 The organisation is experiencing a 33.44% employee attrition 
-rate — more than double the industry standard of 10-15%. 
+rate more than double the industry standard of 10-15%. 
 HR teams lack visibility into the key drivers behind this 
 turnover making it difficult to implement effective 
 retention strategies.
