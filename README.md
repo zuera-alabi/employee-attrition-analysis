@@ -92,17 +92,17 @@ crisis and the starting point for any meaningful intervention.
 ## Key Findings
 
 ❖ The company is losing 1 in 3 employees with an attrition 
-  rate of 33.44% — more than double the industry standard 
+  rate of 33.44% more than double the industry standard 
   of 10-15%
 
 ❖ Production department is the biggest problem accounting 
   for 79.8% of all attritions despite having the lowest 
   average salary of £59,953
 
-❖ 84.62% of departures were voluntary — employees are 
+❖ 84.62% of departures were voluntary, employees are 
   choosing to leave not being pushed out
 
-❖ Lower paid employees leave more — voluntary leavers 
+❖ Lower paid employees leave more, voluntary leavers 
   earned £6,745 less than active employees on average
 
 ❖ Diversity Job Fair produces the best talent at 20.69% 
@@ -115,4 +115,36 @@ crisis and the starting point for any meaningful intervention.
 ❖ Engineering is the star department with highest 
   satisfaction score of 4.09 and highest performance 
   rate of 18.18%
+
+  ## Strategic Recommendations
+
+❖ Review Production Department salaries immediately, 
+  £59,953 average is significantly below other departments 
+  and is driving 79.8% of all voluntary departures
+
+❖ Invest more in Diversity Job Fairs, 20.69% top performer 
+  rate makes it the highest quality recruitment source 
+  yet it remains underutilised
+
+❖ Strengthen Employee Referral Programme, second highest 
+  quality hires at 16.13%, introduce referral bonuses 
+  to encourage recommendations
+
+❖ Investigate the 2015 and 2016 termination spike,
+  43.27% of all attritions occurred in just two years, 
+  understanding why prevents recurrence
+
+❖ Replicate Engineering success across underperforming 
+  departments, highest satisfaction and performance 
+  scores show what good looks like
+
+## 👩🏽‍💻 About the Author
+**Zuera Alabi**
+Data Analyst | Python | SQL | Power BI | Excel
+
+Behind every dataset is a decision waiting to be made, 
+I help businesses find it.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/zuera-alabi-4b85a7282/)
+🔗 [GitHub](https://github.com/zuera-alabi)
 
