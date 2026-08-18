@@ -50,7 +50,7 @@ The dataset contains 311 employee records spanning from
 | State | Employee location |
 
 ## Tools & Technologies
-| Tool | Purpose |
+|Tool | Purpose |
 |------|---------|
 | MySQL | Data cleaning and exploratory analysis |
 | Power BI | Interactive dashboard development |
