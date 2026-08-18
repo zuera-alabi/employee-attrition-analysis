@@ -56,3 +56,18 @@ The dataset contains 311 employee records spanning from
 | Power BI | Interactive dashboard development |
 | DAX | Calculated measures and KPIs |
 | GitHub | Version control and documentation |
+
+
+##  Project Structure
+```
+employee-attrition-analysis/
+│
+├── data/
+│   ├── raw/          → Original HR dataset
+│   └── cleaned/      → Cleaned and processed dataset
+│
+├── sql/              → SQL analysis queries
+├── dashboard/        → Power BI .pbix file
+├── images/           → Dashboard screenshots
+└── README.md
+```
