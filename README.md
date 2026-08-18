@@ -71,7 +71,7 @@ employee-attrition-analysis/
 ├── images/           → Dashboard screenshots
 └── README.md
 ```
-### Workforce Health Summary
+## Workforce Health Summary
 ![Dashboard Overview](images/01_hr_dashboard_overview.png)
 At first glance the numbers tell a concerning story — 33.44% 
 of employees have left the organisation, more than double 
@@ -80,7 +80,7 @@ and a retention rate of just 66.56%, the dashboard immediately
 signals that this is not a minor HR challenge but a serious 
 organisational risk requiring urgent strategic intervention.
 
-### Production Department Filter
+## Production Department Filter
 ![Production Department](images/02_hr_dashboard_production.png)
 Filtering by Production transforms the picture dramatically — 
 this single department accounts for 79.8% of all company 
