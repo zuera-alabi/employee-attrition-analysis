@@ -80,3 +80,12 @@ and a retention rate of just 66.56%, the dashboard immediately
 signals that this is not a minor HR challenge but a serious 
 organisational risk requiring urgent strategic intervention.
 
+### Production Department Filter
+![Production Department](images/02_hr_dashboard_production.png)
+Filtering by Production transforms the picture dramatically — 
+this single department accounts for 79.8% of all company 
+attritions. With the lowest average salary across all 
+departments and the highest voluntary exit rate, Production 
+emerges as the organisation's most critical retention 
+crisis and the starting point for any meaningful intervention.
+
