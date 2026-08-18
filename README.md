@@ -25,3 +25,11 @@ The analysis focused on answering the following questions:
 - How do performance scores relate to termination?
 - Which gender has the higher attrition rate?
 - Does employee satisfaction affect attrition?
+  ##  Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| MySQL | Data cleaning and exploratory analysis |
+| Power BI | Interactive dashboard development |
+| DAX | Calculated measures and KPIs |
+| GitHub | Version control and documentation |
