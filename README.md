@@ -26,7 +26,7 @@ The analysis focused on answering the following questions:
 - Which gender has the higher attrition rate?
 - Does employee satisfaction affect attrition?
 
-  ## Dataset
+## Dataset
 The dataset contains 311 employee records spanning from 
 2006 to 2018 across multiple departments and states.
 
@@ -48,8 +48,8 @@ The dataset contains 311 employee records spanning from
 | Employee Satisfaction | Satisfaction rating |
 | Recruitment Source | How employee was recruited |
 | State | Employee location |
-  ## Tools & Technologies
 
+## Tools & Technologies
 | Tool | Purpose |
 |------|---------|
 | MySQL | Data cleaning and exploratory analysis |
