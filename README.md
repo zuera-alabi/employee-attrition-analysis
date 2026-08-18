@@ -71,7 +71,7 @@ employee-attrition-analysis/
 ├── images/           → Dashboard screenshots
 └── README.md
 ```
-### Overview — Full Workforce View
+### Workforce Health Summary
 ![Dashboard Overview](images/01_hr_dashboard_overview.png)
 At first glance the numbers tell a concerning story — 33.44% 
 of employees have left the organisation, more than double 
