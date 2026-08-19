@@ -81,7 +81,7 @@ and a retention rate of just 66.56%, the dashboard immediately
 signals that this is not a minor HR challenge but a serious 
 organisational risk requiring urgent strategic intervention.
 
-## Production Department Filter
+### Production Department Filter
 ![Production Department](images/02_hr_dashboard_production.png)
 
 Filtering by Production transforms the picture dramatically, 
