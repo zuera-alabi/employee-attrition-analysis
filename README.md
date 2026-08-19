@@ -30,7 +30,7 @@ The analysis focused on answering the following questions:
 The dataset contains 311 employee records spanning from 
 2006 to 2018 across multiple departments and states.
 
-| Column | Description |
+|Column | Description |
 |--------|-------------|
 | Employee ID | Unique employee identifier |
 | Name | Employee full name |
@@ -81,7 +81,7 @@ and a retention rate of just 66.56%, the dashboard immediately
 signals that this is not a minor HR challenge but a serious 
 organisational risk requiring urgent strategic intervention.
 
-### Production Department Filter
+## Production Department Filter
 ![Production Department](images/02_hr_dashboard_production.png)
 
 Filtering by Production transforms the picture dramatically, 
@@ -149,5 +149,4 @@ Behind every dataset is a decision waiting to be made,
 I help businesses find it.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/zuera-alabi-4b85a7282/)
-🔗 [GitHub](https://github.com/zuera-alabi)
-
+🔗 [GitHub](https://github.com/zuera-alabi) 
