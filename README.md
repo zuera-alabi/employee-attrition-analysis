@@ -73,6 +73,7 @@ employee-attrition-analysis/
 ```
 ## Workforce Health Summary
 ![Dashboard Overview](images/01_hr_dashboard_overview.png)
+
 At first glance the numbers tell a concerning story — 33.44% 
 of employees have left the organisation, more than double 
 the industry standard. With an average salary of £69,020 
@@ -82,6 +83,7 @@ organisational risk requiring urgent strategic intervention.
 
 ## Production Department Filter
 ![Production Department](images/02_hr_dashboard_production.png)
+
 Filtering by Production transforms the picture dramatically, 
 this single department houses 209 of the company's 311 employees 
 yet carries a 39.71% attrition rate above the already concerning 
